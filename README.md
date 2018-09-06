@@ -10,11 +10,11 @@ sign up!
 ### The procedure
 
 If you want to sign up, all you have to do is to open up the
-appropriate Markdown file for the week you wish to sign up for. Find
-an available slot and make a PR that adds your name. I'll try to merge
-PRs roughly in the order they arrive, first thing in the morning. When
-the time comes, we will be meeting in [my appear.in
-room][appear]. I'll try to add new weeks with times in advance.
+appropriate Markdown file -- there is one per month. Find an available
+slot and make a PR that adds your name. I'll try to merge PRs roughly
+in the order they arrive, first thing in the morning. When the time
+comes, we will be meeting in [my appear.in room][appear]. I plan to
+add new months towards the end of each month.
 
 [appear]: http://appear.in/i-heart-rust
 

@@ -39,6 +39,9 @@ which has an encyclopaedic listing of stuff.
 [Rust users board]: https://users.rust-lang.org/
 [rust-learning]: https://github.com/ctjhoa/rust-learning
 
+**No guarantees.** Sometimes last minute things come up and I have to
+cancel. I'll try not to, though!
+
 ### Who I am
 
 I'm @nikomatsakis, a member of the Rust core, language, and compiler

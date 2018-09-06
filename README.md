@@ -42,4 +42,5 @@ which has an encyclopaedic listing of stuff.
 ### Who I am
 
 I'm @nikomatsakis, a member of the Rust core, language, and compiler
-teams. I've been working on Rust for the last 7 years or so.
+teams. I've been working on Rust for the last 7 years or so. I like it
+and I hope you will, too!

@@ -1,11 +1,24 @@
-Hi! Welcome to my "office hours" repository. Every week, I have a few
-"open slots" that I reserve to help people work through problems that
-they are having with their Rust programs -- no problem is too big or
-too small! My goal with this is obviously to help people, but also to
-gain some insight into what kinds of things people find difficult
-about Rust, so that we can improve those things. So, if you are a Rust
-user -- beginner or advanced -- and you have a problem, you should
-sign up!
+Hi! Welcome to my "office hours" repository. 
+
+### TL;DR
+
+If you want to sign up for some help, make your way to the appropriate
+markdown file, find an available slot, and open a PR that adds your
+name:
+
+- [September 2018 signups](2018/09.md)
+
+I'll add more months if this works out well. =)
+
+### What is this?
+
+Every week, I have a few "open slots" that I reserve to help people
+work through problems that they are having with their Rust programs --
+no problem is too big or too small! My goal with this is obviously to
+help people, but also to gain some insight into what kinds of things
+people find difficult about Rust, so that we can improve those
+things. So, if you are a Rust user -- beginner or advanced -- and you
+have a problem, you should sign up!
 
 ### The procedure
 

@@ -6,9 +6,7 @@ If you want to sign up for some help, make your way to the appropriate
 markdown file, find an available slot, and open a PR that adds your
 name:
 
-- [September 2018 signups](2018/09.md)
-
-I'll add more months if this works out well. =)
+ - [October 2018 signups](2018/10.md)
 
 ### What is this?
 

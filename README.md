@@ -1,5 +1,7 @@
 Hi! Welcome to my "office hours" repository. 
 
+### Office Hours are on Hiatus. Please come back in November of 2019 ###
+
 ### TL;DR
 
 If you want to sign up for some help, make your way to the appropriate

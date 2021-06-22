@@ -41,7 +41,7 @@ Please try to pick a suitable slot for the level of your problem.
 
 **No slots left?** Sorry, I wish I had time for everyone. I would
 however recommend checking out the [Rust users board]. Lots of
-friendly and knowledgable folks there. If you prefer synchronous chat,
+friendly and knowledgeable folks there. If you prefer synchronous chat,
 there is also `#beginners` on the [Rust
 discord](https://discord.gg/rust-lang) and `#rust-beginners` on
 `irc.mozilla.org`. Finally, check out the [rust-learning] repository,
